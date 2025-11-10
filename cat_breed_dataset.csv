@@ -1,0 +1,551 @@
+cat_id,breed,gender,age,weight_lbs,life_expectancy,has_hcm,has_pkd,has_hip_dysplasia,vocalization_frequency,social_interaction_need,affection_level,data_collection_date,health_score,total_personality_score,weight_category,age_category
+1,Persian,Male,7,12.0,12.3,False,True,False,1,3,3,2025-11-10,7,7,Medium,Adult
+2,Persian,Male,9,10.8,12.6,False,True,False,1,2,3,2025-11-10,7,6,Medium,Senior
+3,Persian,Female,1,8.2,13.6,False,False,False,1,3,2,2025-11-10,10,6,Medium,Young
+4,Persian,Male,5,11.6,10.4,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+5,Persian,Male,7,12.7,10.5,False,False,False,1,2,3,2025-11-10,10,6,Large,Adult
+6,Persian,Male,6,8.9,13.1,True,False,False,1,2,3,2025-11-10,6,6,Medium,Adult
+7,Persian,Male,3,12.2,14.6,False,False,False,2,1,3,2025-11-10,10,6,Large,Young
+8,Persian,Male,12,11.6,12.7,False,True,False,1,3,2,2025-11-10,7,6,Medium,Senior
+9,Persian,Female,4,9.7,13.6,False,True,False,1,3,2,2025-11-10,7,6,Medium,Adult
+10,Persian,Male,8,12.6,9.8,False,True,False,2,2,4,2025-11-10,7,8,Large,Senior
+11,Persian,Male,1,9.6,14.4,False,True,False,1,2,2,2025-11-10,7,5,Medium,Young
+12,Persian,Male,7,10.8,12.8,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+13,Persian,Male,9,9.8,11.6,False,False,False,1,2,3,2025-11-10,10,6,Medium,Senior
+14,Persian,Male,4,11.3,15.0,False,True,False,1,3,3,2025-11-10,7,7,Medium,Adult
+15,Persian,Male,3,9.0,11.6,False,True,False,2,2,2,2025-11-10,7,6,Medium,Young
+16,Persian,Male,13,10.8,11.3,False,True,False,2,1,2,2025-11-10,7,5,Medium,Senior
+17,Persian,Female,6,8.3,16.9,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+18,Persian,Male,6,10.0,10.1,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+19,Persian,Female,3,8.6,11.5,False,True,False,2,3,2,2025-11-10,7,7,Medium,Young
+20,Persian,Female,4,10.4,10.8,False,True,False,1,2,4,2025-11-10,7,7,Medium,Adult
+21,Persian,Male,10,10.1,13.2,False,False,False,1,2,2,2025-11-10,10,5,Medium,Senior
+22,Persian,Male,4,12.2,13.0,False,True,False,2,2,2,2025-11-10,7,6,Large,Adult
+23,Persian,Female,4,8.9,12.9,True,True,False,1,3,2,2025-11-10,3,6,Medium,Adult
+24,Persian,Female,4,7.4,13.8,False,True,False,2,3,2,2025-11-10,7,7,Small,Adult
+25,Persian,Female,7,11.2,9.1,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+26,Persian,Male,6,9.7,9.0,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+27,Persian,Male,5,11.9,12.8,False,False,False,1,1,4,2025-11-10,10,6,Medium,Adult
+28,Persian,Female,5,6.7,11.0,False,True,False,1,2,4,2025-11-10,7,7,Small,Adult
+29,Persian,Male,3,9.7,15.0,False,False,False,1,3,2,2025-11-10,10,6,Medium,Young
+30,Persian,Male,3,8.5,11.3,False,False,False,2,1,2,2025-11-10,10,5,Medium,Young
+31,Persian,Female,4,6.6,12.3,False,True,False,1,1,3,2025-11-10,7,5,Small,Adult
+32,Persian,Male,11,11.1,11.8,True,False,False,1,1,2,2025-11-10,6,4,Medium,Senior
+33,Persian,Female,9,8.1,12.2,False,True,False,1,2,3,2025-11-10,7,6,Medium,Senior
+34,Persian,Female,2,7.9,12.3,False,False,False,1,1,3,2025-11-10,10,5,Small,Young
+35,Persian,Female,7,7.1,14.1,False,True,False,1,1,2,2025-11-10,7,4,Small,Adult
+36,Persian,Male,5,14.4,13.0,False,False,False,2,2,4,2025-11-10,10,8,Large,Adult
+37,Persian,Female,5,8.5,15.9,False,True,False,2,2,3,2025-11-10,7,7,Medium,Adult
+38,Persian,Male,3,12.1,12.5,False,False,False,2,2,2,2025-11-10,10,6,Large,Young
+39,Persian,Female,6,9.2,14.2,False,True,False,2,1,4,2025-11-10,7,7,Medium,Adult
+40,Persian,Male,8,12.6,13.4,False,True,False,1,2,2,2025-11-10,7,5,Large,Senior
+41,Persian,Female,6,8.3,11.4,False,True,False,1,3,3,2025-11-10,7,7,Medium,Adult
+42,Persian,Female,4,10.2,14.2,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+43,Persian,Male,7,11.0,13.6,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+44,Persian,Male,6,12.3,14.6,False,True,False,1,2,2,2025-11-10,7,5,Large,Adult
+45,Persian,Male,5,10.6,14.0,False,False,False,2,1,2,2025-11-10,10,5,Medium,Adult
+46,Persian,Male,4,9.2,10.7,False,False,False,1,3,2,2025-11-10,10,6,Medium,Adult
+47,Persian,Female,6,9.6,15.5,False,False,False,1,1,3,2025-11-10,10,5,Medium,Adult
+48,Persian,Male,7,11.1,9.7,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+49,Persian,Male,4,11.5,12.1,False,False,False,2,1,2,2025-11-10,10,5,Medium,Adult
+50,Persian,Male,9,8.1,15.1,False,False,False,2,1,4,2025-11-10,10,7,Medium,Senior
+51,Persian,Female,7,6.8,12.7,False,True,False,1,1,2,2025-11-10,7,4,Small,Adult
+52,Persian,Female,3,8.4,12.0,False,False,False,2,1,3,2025-11-10,10,6,Medium,Young
+53,Persian,Female,4,7.4,11.5,False,False,False,1,1,3,2025-11-10,10,5,Small,Adult
+54,Persian,Female,9,6.9,12.2,False,False,False,1,3,3,2025-11-10,10,7,Small,Senior
+55,Persian,Male,10,10.0,9.8,False,False,False,1,3,2,2025-11-10,10,6,Medium,Senior
+56,Maine Coon,Female,4,11.3,14.5,False,False,True,1,3,3,2025-11-10,7,7,Medium,Adult
+57,Maine Coon,Female,6,14.0,13.2,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+58,Maine Coon,Male,4,14.7,10.2,True,False,False,3,2,4,2025-11-10,6,9,Large,Adult
+59,Maine Coon,Female,6,13.2,14.7,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+60,Maine Coon,Male,8,17.2,10.6,False,False,False,3,3,4,2025-11-10,10,10,Large,Senior
+61,Maine Coon,Male,9,18.6,13.4,False,False,False,1,2,4,2025-11-10,10,7,Large,Senior
+62,Maine Coon,Male,6,17.9,16.0,False,False,True,2,3,4,2025-11-10,7,9,Large,Adult
+63,Maine Coon,Male,8,16.6,17.1,False,False,False,2,3,4,2025-11-10,10,9,Large,Senior
+64,Maine Coon,Female,4,11.4,10.0,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+65,Maine Coon,Female,1,7.6,14.9,False,False,False,1,3,4,2025-11-10,10,8,Small,Young
+66,Maine Coon,Female,11,11.5,14.1,False,False,False,2,3,3,2025-11-10,10,8,Medium,Senior
+67,Maine Coon,Male,6,11.3,12.3,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+68,Maine Coon,Female,7,13.7,14.2,True,False,False,1,2,4,2025-11-10,6,7,Large,Adult
+69,Maine Coon,Male,6,17.8,13.3,False,False,False,2,2,4,2025-11-10,10,8,Large,Adult
+70,Maine Coon,Male,6,16.7,14.3,False,False,True,2,3,4,2025-11-10,7,9,Large,Adult
+71,Maine Coon,Male,3,14.3,12.8,False,False,True,2,2,3,2025-11-10,7,7,Large,Young
+72,Maine Coon,Female,7,7.7,12.5,False,False,False,3,3,4,2025-11-10,10,10,Small,Adult
+73,Maine Coon,Female,11,7.9,15.8,False,False,False,3,3,3,2025-11-10,10,9,Small,Senior
+74,Maine Coon,Female,8,11.2,14.1,True,False,False,2,3,4,2025-11-10,6,9,Medium,Senior
+75,Maine Coon,Male,3,10.5,12.2,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+76,Maine Coon,Male,7,17.0,13.2,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+77,Maine Coon,Female,4,12.7,14.1,False,False,False,2,2,4,2025-11-10,10,8,Large,Adult
+78,Maine Coon,Male,3,13.3,13.1,False,False,False,2,2,4,2025-11-10,10,8,Large,Young
+79,Maine Coon,Female,2,10.5,13.6,False,True,True,3,3,4,2025-11-10,4,10,Medium,Young
+80,Maine Coon,Female,6,11.8,12.8,False,False,False,1,3,3,2025-11-10,10,7,Medium,Adult
+81,Maine Coon,Female,4,11.8,10.8,True,False,False,1,3,4,2025-11-10,6,8,Medium,Adult
+82,Maine Coon,Male,6,17.0,12.4,False,False,False,1,2,4,2025-11-10,10,7,Large,Adult
+83,Maine Coon,Female,9,7.8,12.4,False,False,False,3,2,3,2025-11-10,10,8,Small,Senior
+84,Maine Coon,Male,3,12.5,10.9,False,False,False,3,3,4,2025-11-10,10,10,Large,Young
+85,Maine Coon,Male,6,14.1,14.3,False,False,False,3,3,3,2025-11-10,10,9,Large,Adult
+86,Maine Coon,Female,4,10.0,12.3,False,False,True,2,3,4,2025-11-10,7,9,Medium,Adult
+87,Maine Coon,Female,10,11.7,13.1,False,False,False,3,2,3,2025-11-10,10,8,Medium,Senior
+88,Maine Coon,Female,3,10.8,8.3,False,True,False,2,3,4,2025-11-10,7,9,Medium,Young
+89,Maine Coon,Female,3,11.8,12.2,False,False,False,2,2,4,2025-11-10,10,8,Medium,Young
+90,Maine Coon,Male,8,15.0,12.7,False,False,True,1,2,4,2025-11-10,7,7,Large,Senior
+91,Maine Coon,Male,6,13.0,11.0,False,False,False,3,2,4,2025-11-10,10,9,Large,Adult
+92,Maine Coon,Female,10,10.6,12.0,False,False,False,2,3,4,2025-11-10,10,9,Medium,Senior
+93,Maine Coon,Male,1,15.7,16.1,False,True,False,3,2,4,2025-11-10,7,9,Large,Young
+94,Maine Coon,Male,4,17.4,12.8,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+95,Maine Coon,Male,5,10.1,12.7,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+96,Maine Coon,Male,5,17.1,11.3,False,False,False,3,2,3,2025-11-10,10,8,Large,Adult
+97,Maine Coon,Male,3,13.0,11.1,False,False,False,1,2,3,2025-11-10,10,6,Large,Young
+98,Maine Coon,Female,1,9.5,18.1,True,False,False,2,3,3,2025-11-10,6,8,Medium,Young
+99,Maine Coon,Male,9,15.2,9.3,False,False,False,2,3,4,2025-11-10,10,9,Large,Senior
+100,Maine Coon,Female,5,11.7,15.9,False,False,False,1,2,4,2025-11-10,10,7,Medium,Adult
+101,Maine Coon,Female,4,16.1,12.0,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+102,Maine Coon,Female,6,9.8,14.7,False,False,False,1,3,3,2025-11-10,10,7,Medium,Adult
+103,Maine Coon,Female,1,11.9,11.5,False,False,True,3,2,4,2025-11-10,7,9,Medium,Young
+104,Maine Coon,Male,4,14.2,10.8,False,False,False,1,2,4,2025-11-10,10,7,Large,Adult
+105,Maine Coon,Male,4,15.2,15.6,False,False,True,2,3,4,2025-11-10,7,9,Large,Adult
+106,Maine Coon,Female,7,11.3,10.7,False,False,False,2,2,3,2025-11-10,10,7,Medium,Adult
+107,Maine Coon,Female,4,9.2,12.4,False,True,False,1,3,3,2025-11-10,7,7,Medium,Adult
+108,Maine Coon,Male,6,12.3,14.0,False,False,False,2,3,3,2025-11-10,10,8,Large,Adult
+109,Maine Coon,Female,3,9.9,11.5,False,False,False,1,3,3,2025-11-10,10,7,Medium,Young
+110,Maine Coon,Female,8,7.2,13.9,True,False,False,3,2,4,2025-11-10,6,9,Small,Senior
+111,British Shorthair,Male,4,11.3,11.8,False,False,False,1,2,3,2025-11-10,10,6,Medium,Adult
+112,British Shorthair,Female,2,9.3,11.1,False,False,False,1,1,3,2025-11-10,10,5,Medium,Young
+113,British Shorthair,Male,1,12.4,16.9,True,False,False,2,1,1,2025-11-10,6,4,Large,Young
+114,British Shorthair,Female,6,8.7,16.3,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+115,British Shorthair,Male,2,14.9,14.3,False,False,False,1,1,1,2025-11-10,10,3,Large,Young
+116,British Shorthair,Male,6,14.3,15.4,False,False,False,1,2,1,2025-11-10,10,4,Large,Adult
+117,British Shorthair,Female,6,8.0,12.1,False,False,False,1,2,2,2025-11-10,10,5,Small,Adult
+118,British Shorthair,Male,8,11.8,14.7,False,False,False,2,1,2,2025-11-10,10,5,Medium,Senior
+119,British Shorthair,Male,6,9.3,16.9,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+120,British Shorthair,Female,2,9.9,16.6,False,False,True,1,1,2,2025-11-10,7,4,Medium,Young
+121,British Shorthair,Male,7,13.0,14.4,False,False,False,1,1,3,2025-11-10,10,5,Large,Adult
+122,British Shorthair,Male,4,12.1,18.1,False,False,False,1,1,2,2025-11-10,10,4,Large,Adult
+123,British Shorthair,Female,1,8.0,12.3,False,False,False,1,2,3,2025-11-10,10,6,Small,Young
+124,British Shorthair,Female,7,10.4,14.7,False,False,False,2,1,3,2025-11-10,10,6,Medium,Adult
+125,British Shorthair,Male,7,12.3,13.7,False,False,False,1,2,3,2025-11-10,10,6,Large,Adult
+126,British Shorthair,Male,5,12.0,17.8,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+127,British Shorthair,Female,11,8.3,16.8,False,False,False,1,2,1,2025-11-10,10,4,Medium,Senior
+128,British Shorthair,Female,6,9.2,15.9,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+129,British Shorthair,Male,6,14.6,13.5,False,False,False,1,1,1,2025-11-10,10,3,Large,Adult
+130,British Shorthair,Male,6,13.5,15.3,False,False,False,1,1,3,2025-11-10,10,5,Large,Adult
+131,British Shorthair,Male,6,13.4,13.5,False,False,False,1,1,3,2025-11-10,10,5,Large,Adult
+132,British Shorthair,Male,5,12.7,15.3,True,False,False,2,1,1,2025-11-10,6,4,Large,Adult
+133,British Shorthair,Male,6,10.6,14.9,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+134,British Shorthair,Female,7,9.0,14.7,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+135,British Shorthair,Male,6,12.7,15.7,False,False,False,1,1,2,2025-11-10,10,4,Large,Adult
+136,British Shorthair,Male,4,11.7,19.0,False,False,False,1,1,3,2025-11-10,10,5,Medium,Adult
+137,British Shorthair,Male,9,12.0,14.7,False,False,False,1,1,3,2025-11-10,10,5,Medium,Senior
+138,British Shorthair,Female,10,9.7,17.5,False,False,False,1,2,3,2025-11-10,10,6,Medium,Senior
+139,British Shorthair,Male,1,15.1,13.6,False,False,False,1,2,3,2025-11-10,10,6,Large,Young
+140,British Shorthair,Female,3,10.1,15.5,False,False,False,2,1,1,2025-11-10,10,4,Medium,Young
+141,British Shorthair,Female,5,7.5,12.0,False,False,False,1,1,1,2025-11-10,10,3,Small,Adult
+142,British Shorthair,Male,7,11.8,16.6,False,False,True,1,1,2,2025-11-10,7,4,Medium,Adult
+143,British Shorthair,Male,12,14.8,13.8,False,False,False,1,2,1,2025-11-10,10,4,Large,Senior
+144,British Shorthair,Female,3,7.9,14.8,False,False,False,1,1,2,2025-11-10,10,4,Small,Young
+145,British Shorthair,Female,8,7.6,15.0,False,False,False,2,1,2,2025-11-10,10,5,Small,Senior
+146,British Shorthair,Female,3,10.8,17.7,True,False,False,1,1,2,2025-11-10,6,4,Medium,Young
+147,British Shorthair,Female,9,9.0,16.0,False,False,False,1,1,3,2025-11-10,10,5,Medium,Senior
+148,British Shorthair,Female,12,12.6,15.6,False,False,False,2,1,1,2025-11-10,10,4,Large,Senior
+149,British Shorthair,Male,5,13.9,15.7,False,False,False,1,2,2,2025-11-10,10,5,Large,Adult
+150,British Shorthair,Male,4,9.4,15.9,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+151,British Shorthair,Male,8,14.7,14.6,False,False,False,1,1,3,2025-11-10,10,5,Large,Senior
+152,British Shorthair,Male,8,16.6,11.5,False,False,False,1,1,3,2025-11-10,10,5,Large,Senior
+153,British Shorthair,Female,7,11.6,11.5,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+154,British Shorthair,Male,9,12.5,15.5,False,False,False,2,1,3,2025-11-10,10,6,Large,Senior
+155,British Shorthair,Male,8,12.3,11.1,False,False,False,2,1,1,2025-11-10,10,4,Large,Senior
+156,British Shorthair,Male,3,11.6,13.2,False,False,False,1,1,2,2025-11-10,10,4,Medium,Young
+157,British Shorthair,Male,5,14.1,12.4,False,False,False,2,1,3,2025-11-10,10,6,Large,Adult
+158,British Shorthair,Male,6,16.7,14.1,False,False,False,2,1,3,2025-11-10,10,6,Large,Adult
+159,British Shorthair,Male,5,13.1,13.6,False,False,False,1,1,1,2025-11-10,10,3,Large,Adult
+160,British Shorthair,Male,4,14.4,18.4,False,False,False,1,1,1,2025-11-10,10,3,Large,Adult
+161,British Shorthair,Male,8,14.8,15.5,False,False,False,1,1,2,2025-11-10,10,4,Large,Senior
+162,British Shorthair,Male,1,11.1,16.1,False,False,False,1,1,3,2025-11-10,10,5,Medium,Young
+163,British Shorthair,Female,7,9.5,12.9,False,False,False,2,1,2,2025-11-10,10,5,Medium,Adult
+164,British Shorthair,Male,11,14.4,15.2,False,False,False,1,1,2,2025-11-10,10,4,Large,Senior
+165,British Shorthair,Male,8,13.6,14.3,False,False,False,1,1,3,2025-11-10,10,5,Large,Senior
+166,Ragdoll,Female,9,12.1,14.8,False,False,False,1,3,4,2025-11-10,10,8,Large,Senior
+167,Ragdoll,Female,2,9.6,11.0,False,False,False,1,3,4,2025-11-10,10,8,Medium,Young
+168,Ragdoll,Male,9,17.5,16.6,False,False,False,1,3,4,2025-11-10,10,8,Large,Senior
+169,Ragdoll,Male,1,10.7,14.1,False,False,False,2,2,3,2025-11-10,10,7,Medium,Young
+170,Ragdoll,Female,4,11.4,15.1,False,False,False,1,2,4,2025-11-10,10,7,Medium,Adult
+171,Ragdoll,Male,4,16.4,13.1,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+172,Ragdoll,Female,11,10.9,14.3,False,False,False,1,3,3,2025-11-10,10,7,Medium,Senior
+173,Ragdoll,Female,4,10.1,12.3,False,False,False,1,2,3,2025-11-10,10,6,Medium,Adult
+174,Ragdoll,Male,7,15.8,14.6,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+175,Ragdoll,Male,3,17.0,14.6,False,False,False,1,3,4,2025-11-10,10,8,Large,Young
+176,Ragdoll,Male,5,16.1,12.7,False,False,False,2,2,4,2025-11-10,10,8,Large,Adult
+177,Ragdoll,Female,5,8.9,15.7,False,False,False,2,3,3,2025-11-10,10,8,Medium,Adult
+178,Ragdoll,Female,6,8.3,16.3,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+179,Ragdoll,Female,1,12.7,10.4,False,False,False,1,3,3,2025-11-10,10,7,Large,Young
+180,Ragdoll,Female,4,9.9,11.9,False,False,False,1,2,4,2025-11-10,10,7,Medium,Adult
+181,Ragdoll,Female,2,13.7,15.2,False,False,False,1,3,4,2025-11-10,10,8,Large,Young
+182,Ragdoll,Male,8,14.2,10.5,False,False,False,1,3,4,2025-11-10,10,8,Large,Senior
+183,Ragdoll,Male,6,15.3,11.4,False,False,False,2,3,3,2025-11-10,10,8,Large,Adult
+184,Ragdoll,Male,3,17.1,12.5,False,False,False,2,2,3,2025-11-10,10,7,Large,Young
+185,Ragdoll,Female,7,9.3,14.8,False,False,False,1,2,4,2025-11-10,10,7,Medium,Adult
+186,Ragdoll,Female,3,12.3,12.9,False,False,False,1,3,4,2025-11-10,10,8,Large,Young
+187,Ragdoll,Male,6,17.3,13.6,False,False,False,1,2,4,2025-11-10,10,7,Large,Adult
+188,Ragdoll,Male,5,14.8,11.8,False,False,False,1,2,4,2025-11-10,10,7,Large,Adult
+189,Ragdoll,Male,5,18.3,15.2,False,False,False,1,2,3,2025-11-10,10,6,Large,Adult
+190,Ragdoll,Male,7,13.4,13.7,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+191,Ragdoll,Female,5,11.1,14.9,False,False,False,1,3,3,2025-11-10,10,7,Medium,Adult
+192,Ragdoll,Male,5,14.8,14.1,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+193,Ragdoll,Female,6,11.0,12.7,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+194,Ragdoll,Male,4,16.8,15.3,False,False,False,2,3,4,2025-11-10,10,9,Large,Adult
+195,Ragdoll,Female,4,10.6,11.8,False,False,False,2,2,3,2025-11-10,10,7,Medium,Adult
+196,Ragdoll,Female,3,10.2,15.4,False,False,False,1,3,3,2025-11-10,10,7,Medium,Young
+197,Ragdoll,Male,1,13.1,17.3,False,False,False,1,2,3,2025-11-10,10,6,Large,Young
+198,Ragdoll,Male,5,15.1,16.3,False,False,False,1,2,3,2025-11-10,10,6,Large,Adult
+199,Ragdoll,Female,6,12.3,13.5,False,False,False,1,2,4,2025-11-10,10,7,Large,Adult
+200,Ragdoll,Male,4,17.5,13.6,False,False,False,2,2,3,2025-11-10,10,7,Large,Adult
+201,Ragdoll,Male,8,10.6,14.8,False,False,False,2,3,4,2025-11-10,10,9,Medium,Senior
+202,Ragdoll,Male,6,14.6,13.0,True,False,False,1,3,4,2025-11-10,6,8,Large,Adult
+203,Ragdoll,Male,8,12.7,12.5,False,False,False,1,2,3,2025-11-10,10,6,Large,Senior
+204,Ragdoll,Male,9,16.6,13.8,False,False,False,2,3,4,2025-11-10,10,9,Large,Senior
+205,Ragdoll,Male,8,20.2,13.8,False,False,False,1,3,3,2025-11-10,10,7,Large,Senior
+206,Ragdoll,Female,7,7.9,12.0,False,False,False,1,2,4,2025-11-10,10,7,Small,Adult
+207,Ragdoll,Female,6,12.4,15.2,False,False,False,1,2,3,2025-11-10,10,6,Large,Adult
+208,Ragdoll,Female,4,13.6,14.4,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+209,Ragdoll,Male,5,17.1,13.7,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+210,Ragdoll,Female,7,12.4,15.2,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+211,Ragdoll,Male,5,15.9,15.5,False,False,False,2,3,4,2025-11-10,10,9,Large,Adult
+212,Ragdoll,Male,2,12.7,14.2,False,False,False,1,2,3,2025-11-10,10,6,Large,Young
+213,Ragdoll,Female,5,9.7,13.8,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+214,Ragdoll,Male,7,8.8,14.2,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+215,Ragdoll,Female,6,10.3,12.3,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+216,Ragdoll,Female,3,14.0,17.0,False,False,False,2,3,3,2025-11-10,10,8,Large,Young
+217,Ragdoll,Female,3,12.7,14.5,False,False,False,2,2,4,2025-11-10,10,8,Large,Young
+218,Ragdoll,Female,8,8.0,12.6,True,False,False,2,3,4,2025-11-10,6,9,Small,Senior
+219,Ragdoll,Female,3,11.7,15.6,False,False,False,2,3,4,2025-11-10,10,9,Medium,Young
+220,Ragdoll,Female,3,8.8,14.3,False,False,False,1,3,4,2025-11-10,10,8,Medium,Young
+221,Bengal,Male,6,13.0,11.4,False,False,False,2,2,3,2025-11-10,10,7,Large,Adult
+222,Bengal,Male,5,12.3,15.3,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+223,Bengal,Female,10,7.2,13.5,False,False,False,2,2,4,2025-11-10,10,8,Small,Senior
+224,Bengal,Male,7,11.3,15.6,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+225,Bengal,Male,5,8.4,13.0,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+226,Bengal,Male,8,11.9,16.1,False,False,False,2,3,3,2025-11-10,10,8,Medium,Senior
+227,Bengal,Female,3,6.3,15.1,False,False,False,2,2,4,2025-11-10,10,8,Small,Young
+228,Bengal,Male,12,15.3,13.2,False,False,False,2,2,4,2025-11-10,10,8,Large,Senior
+229,Bengal,Male,8,12.9,10.5,False,False,False,3,2,3,2025-11-10,10,8,Large,Senior
+230,Bengal,Female,9,10.6,13.5,False,False,False,3,3,4,2025-11-10,10,10,Medium,Senior
+231,Bengal,Male,4,11.4,14.1,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+232,Bengal,Male,7,12.1,14.7,False,False,False,2,3,4,2025-11-10,10,9,Large,Adult
+233,Bengal,Male,10,12.0,17.4,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+234,Bengal,Male,4,12.2,12.9,False,False,False,2,2,3,2025-11-10,10,7,Large,Adult
+235,Bengal,Male,8,7.8,12.0,False,False,False,2,3,4,2025-11-10,10,9,Small,Senior
+236,Bengal,Male,8,11.8,13.7,False,False,False,3,2,4,2025-11-10,10,9,Medium,Senior
+237,Bengal,Male,4,12.8,14.5,False,False,False,3,2,3,2025-11-10,10,8,Large,Adult
+238,Bengal,Female,6,9.5,12.7,False,False,False,3,2,3,2025-11-10,10,8,Medium,Adult
+239,Bengal,Male,4,13.0,15.1,False,False,False,3,3,3,2025-11-10,10,9,Large,Adult
+240,Bengal,Male,5,12.3,16.3,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+241,Bengal,Male,4,12.9,13.7,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+242,Bengal,Male,4,15.1,16.1,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+243,Bengal,Female,5,8.6,13.1,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+244,Bengal,Female,3,6.4,13.2,False,False,False,3,2,4,2025-11-10,10,9,Small,Young
+245,Bengal,Female,6,7.5,15.4,False,False,False,3,3,4,2025-11-10,10,10,Small,Adult
+246,Bengal,Male,3,12.3,13.3,False,False,False,2,3,4,2025-11-10,10,9,Large,Young
+247,Bengal,Female,6,9.2,14.7,False,False,False,3,2,3,2025-11-10,10,8,Medium,Adult
+248,Bengal,Male,4,12.1,14.0,True,False,False,3,3,3,2025-11-10,6,9,Large,Adult
+249,Bengal,Female,3,9.2,12.5,False,False,False,2,3,3,2025-11-10,10,8,Medium,Young
+250,Bengal,Female,10,5.8,13.3,False,False,False,2,2,3,2025-11-10,10,7,Small,Senior
+251,Bengal,Male,3,14.2,14.6,False,False,False,3,3,4,2025-11-10,10,10,Large,Young
+252,Bengal,Female,7,9.8,15.0,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+253,Bengal,Female,3,6.7,15.5,False,False,False,3,3,4,2025-11-10,10,10,Small,Young
+254,Bengal,Female,6,10.2,14.3,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+255,Bengal,Male,5,13.3,10.9,False,False,False,3,2,4,2025-11-10,10,9,Large,Adult
+256,Bengal,Male,2,13.8,13.4,False,False,False,3,3,4,2025-11-10,10,10,Large,Young
+257,Bengal,Female,5,8.3,15.3,False,False,False,2,3,3,2025-11-10,10,8,Medium,Adult
+258,Bengal,Male,4,12.7,13.7,False,False,False,3,2,3,2025-11-10,10,8,Large,Adult
+259,Bengal,Male,8,14.3,12.3,False,False,False,3,3,4,2025-11-10,10,10,Large,Senior
+260,Bengal,Male,3,14.0,16.8,False,False,False,3,2,4,2025-11-10,10,9,Large,Young
+261,Bengal,Female,8,7.7,17.7,False,False,False,2,2,4,2025-11-10,10,8,Small,Senior
+262,Bengal,Male,8,9.6,16.1,True,False,False,2,3,4,2025-11-10,6,9,Medium,Senior
+263,Bengal,Female,4,6.5,14.8,True,False,False,2,3,3,2025-11-10,6,8,Small,Adult
+264,Bengal,Male,6,12.2,15.5,False,False,False,2,3,3,2025-11-10,10,8,Large,Adult
+265,Bengal,Male,4,10.5,17.0,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+266,Bengal,Female,8,7.1,11.3,False,False,False,2,3,4,2025-11-10,10,9,Small,Senior
+267,Bengal,Female,5,6.7,12.3,True,False,False,3,3,4,2025-11-10,6,10,Small,Adult
+268,Bengal,Male,4,14.8,14.9,False,False,False,3,2,4,2025-11-10,10,9,Large,Adult
+269,Bengal,Female,3,7.4,14.9,False,False,False,3,3,4,2025-11-10,10,10,Small,Young
+270,Bengal,Female,5,9.0,14.0,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+271,Bengal,Male,5,12.9,14.6,False,False,False,3,3,3,2025-11-10,10,9,Large,Adult
+272,Bengal,Female,8,6.5,11.7,False,False,False,3,2,4,2025-11-10,10,9,Small,Senior
+273,Bengal,Male,7,14.3,13.4,False,False,False,3,2,4,2025-11-10,10,9,Large,Adult
+274,Bengal,Male,4,13.8,11.0,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+275,Bengal,Female,7,6.8,13.2,False,False,False,3,2,3,2025-11-10,10,8,Small,Adult
+276,Abyssinian,Male,8,8.4,18.3,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+277,Abyssinian,Male,4,11.0,13.4,False,False,False,2,3,3,2025-11-10,10,8,Medium,Adult
+278,Abyssinian,Male,10,11.4,13.5,False,False,False,3,3,4,2025-11-10,10,10,Medium,Senior
+279,Abyssinian,Female,12,10.3,15.2,False,False,False,1,3,4,2025-11-10,10,8,Medium,Senior
+280,Abyssinian,Female,3,7.6,15.6,False,False,False,3,2,3,2025-11-10,10,8,Small,Young
+281,Abyssinian,Male,8,10.3,13.1,False,False,False,2,3,3,2025-11-10,10,8,Medium,Senior
+282,Abyssinian,Female,8,8.5,17.5,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+283,Abyssinian,Male,5,9.6,12.9,True,False,False,1,3,3,2025-11-10,6,7,Medium,Adult
+284,Abyssinian,Female,6,9.2,14.1,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+285,Abyssinian,Female,7,9.2,10.2,False,True,False,2,3,3,2025-11-10,7,8,Medium,Adult
+286,Abyssinian,Female,10,8.0,16.1,False,False,False,1,3,4,2025-11-10,10,8,Small,Senior
+287,Abyssinian,Male,4,11.7,11.8,False,False,False,1,3,3,2025-11-10,10,7,Medium,Adult
+288,Abyssinian,Male,5,9.8,16.2,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+289,Abyssinian,Female,6,8.9,12.6,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+290,Abyssinian,Female,3,9.0,12.2,False,False,False,2,3,4,2025-11-10,10,9,Medium,Young
+291,Abyssinian,Male,4,11.5,10.7,False,False,False,1,3,3,2025-11-10,10,7,Medium,Adult
+292,Abyssinian,Male,8,9.0,13.8,False,False,False,3,2,4,2025-11-10,10,9,Medium,Senior
+293,Abyssinian,Female,5,7.9,14.9,False,False,False,2,3,4,2025-11-10,10,9,Small,Adult
+294,Abyssinian,Male,10,10.0,14.5,False,False,False,3,2,4,2025-11-10,10,9,Medium,Senior
+295,Abyssinian,Female,5,8.0,10.4,False,False,False,2,3,4,2025-11-10,10,9,Small,Adult
+296,Abyssinian,Male,3,10.3,12.6,False,False,False,3,3,3,2025-11-10,10,9,Medium,Young
+297,Abyssinian,Female,5,7.7,17.3,False,False,False,3,3,4,2025-11-10,10,10,Small,Adult
+298,Abyssinian,Female,6,6.5,15.4,False,False,False,1,3,4,2025-11-10,10,8,Small,Adult
+299,Abyssinian,Male,8,10.8,14.4,False,False,False,2,3,4,2025-11-10,10,9,Medium,Senior
+300,Abyssinian,Male,9,10.6,13.8,True,False,False,2,2,4,2025-11-10,6,8,Medium,Senior
+301,Abyssinian,Male,9,8.1,12.5,False,False,False,2,2,4,2025-11-10,10,8,Medium,Senior
+302,Abyssinian,Male,5,11.3,14.7,False,False,False,1,2,3,2025-11-10,10,6,Medium,Adult
+303,Abyssinian,Male,3,11.8,14.8,False,False,False,3,3,3,2025-11-10,10,9,Medium,Young
+304,Abyssinian,Female,10,8.2,15.8,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+305,Abyssinian,Male,4,12.8,12.1,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+306,Abyssinian,Female,5,8.5,17.3,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+307,Abyssinian,Male,5,12.3,12.9,False,False,False,3,3,4,2025-11-10,10,10,Large,Adult
+308,Abyssinian,Male,7,8.7,12.0,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+309,Abyssinian,Female,8,8.0,15.5,False,False,False,2,3,4,2025-11-10,10,9,Small,Senior
+310,Abyssinian,Female,7,6.2,13.5,False,False,False,2,3,4,2025-11-10,10,9,Small,Adult
+311,Abyssinian,Male,2,13.7,13.8,False,False,False,1,2,4,2025-11-10,10,7,Large,Young
+312,Abyssinian,Female,2,8.4,14.3,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+313,Abyssinian,Male,2,11.7,13.7,False,False,False,2,3,3,2025-11-10,10,8,Medium,Young
+314,Abyssinian,Male,5,11.3,13.5,False,False,False,2,3,4,2025-11-10,10,9,Medium,Adult
+315,Abyssinian,Male,9,10.8,15.6,False,False,False,2,2,4,2025-11-10,10,8,Medium,Senior
+316,Abyssinian,Female,2,8.5,12.6,False,False,False,3,2,3,2025-11-10,10,8,Medium,Young
+317,Abyssinian,Female,11,7.6,13.1,False,False,False,1,2,4,2025-11-10,10,7,Small,Senior
+318,Abyssinian,Male,4,8.3,11.1,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+319,Abyssinian,Male,9,12.1,10.1,False,False,False,3,3,4,2025-11-10,10,10,Large,Senior
+320,Abyssinian,Male,5,11.5,12.8,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+321,Abyssinian,Male,8,10.2,12.6,False,False,False,2,3,4,2025-11-10,10,9,Medium,Senior
+322,Abyssinian,Female,3,9.1,13.7,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+323,Abyssinian,Male,6,12.3,14.8,False,False,False,2,3,4,2025-11-10,10,9,Large,Adult
+324,Abyssinian,Male,5,12.0,13.7,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+325,Abyssinian,Female,12,7.8,15.0,False,False,False,1,2,4,2025-11-10,10,7,Small,Senior
+326,Abyssinian,Female,4,6.9,12.4,False,False,False,1,3,4,2025-11-10,10,8,Small,Adult
+327,Abyssinian,Male,3,11.7,11.3,False,False,False,2,3,4,2025-11-10,10,9,Medium,Young
+328,Abyssinian,Female,7,6.1,16.1,False,False,False,2,3,4,2025-11-10,10,9,Small,Adult
+329,Abyssinian,Male,7,11.4,16.0,False,False,False,2,2,3,2025-11-10,10,7,Medium,Adult
+330,Abyssinian,Male,2,11.3,12.0,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+331,Siamese,Female,5,7.3,15.5,False,False,False,2,3,3,2025-11-10,10,8,Small,Adult
+332,Siamese,Male,5,11.2,17.2,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+333,Siamese,Female,1,7.1,15.4,False,False,False,3,3,3,2025-11-10,10,9,Small,Young
+334,Siamese,Male,6,11.7,15.5,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+335,Siamese,Male,6,11.4,15.6,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+336,Siamese,Female,9,7.8,17.5,False,True,False,2,2,4,2025-11-10,7,8,Small,Senior
+337,Siamese,Female,2,8.2,14.2,False,False,False,3,2,4,2025-11-10,10,9,Medium,Young
+338,Siamese,Female,5,6.9,14.6,False,False,False,3,2,3,2025-11-10,10,8,Small,Adult
+339,Siamese,Male,7,10.3,16.8,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+340,Siamese,Male,5,9.9,15.9,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+341,Siamese,Male,4,8.6,18.5,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+342,Siamese,Male,1,10.5,15.3,False,False,False,3,2,4,2025-11-10,10,9,Medium,Young
+343,Siamese,Female,4,7.6,18.8,False,False,False,3,3,3,2025-11-10,10,9,Small,Adult
+344,Siamese,Female,3,9.0,16.7,False,False,False,2,2,4,2025-11-10,10,8,Medium,Young
+345,Siamese,Female,5,9.2,15.7,False,False,False,3,2,3,2025-11-10,10,8,Medium,Adult
+346,Siamese,Male,7,9.9,16.2,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+347,Siamese,Female,10,8.2,15.1,False,False,False,2,3,3,2025-11-10,10,8,Medium,Senior
+348,Siamese,Female,5,6.0,15.6,False,False,False,3,2,3,2025-11-10,10,8,Small,Adult
+349,Siamese,Female,6,6.8,16.2,False,False,False,3,3,4,2025-11-10,10,10,Small,Adult
+350,Siamese,Female,3,9.1,18.3,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+351,Siamese,Male,8,10.4,13.7,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+352,Siamese,Male,1,11.0,15.4,False,False,False,3,2,3,2025-11-10,10,8,Medium,Young
+353,Siamese,Female,8,8.6,14.6,False,False,False,3,3,4,2025-11-10,10,10,Medium,Senior
+354,Siamese,Male,7,10.0,18.1,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+355,Siamese,Female,7,7.8,15.1,False,False,False,3,2,3,2025-11-10,10,8,Small,Adult
+356,Siamese,Male,5,10.4,16.7,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+357,Siamese,Male,13,8.2,17.6,False,False,False,3,2,4,2025-11-10,10,9,Medium,Senior
+358,Siamese,Female,2,5.3,15.3,False,False,False,2,3,4,2025-11-10,10,9,Small,Young
+359,Siamese,Female,4,8.9,17.2,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+360,Siamese,Female,6,7.9,12.9,False,False,False,3,3,3,2025-11-10,10,9,Small,Adult
+361,Siamese,Female,8,6.3,16.9,False,True,False,3,3,4,2025-11-10,7,10,Small,Senior
+362,Siamese,Male,6,8.9,15.7,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+363,Siamese,Female,5,6.8,13.9,False,False,False,3,2,4,2025-11-10,10,9,Small,Adult
+364,Siamese,Male,4,11.0,15.9,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+365,Siamese,Female,6,6.5,16.9,False,False,False,3,2,4,2025-11-10,10,9,Small,Adult
+366,Siamese,Male,6,9.4,15.7,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+367,Siamese,Female,12,9.0,12.9,False,True,False,2,2,3,2025-11-10,7,7,Medium,Senior
+368,Siamese,Male,8,10.4,14.6,False,False,False,2,3,4,2025-11-10,10,9,Medium,Senior
+369,Siamese,Male,3,11.6,15.0,False,False,False,3,3,4,2025-11-10,10,10,Medium,Young
+370,Siamese,Female,4,7.5,16.1,False,False,False,3,2,3,2025-11-10,10,8,Small,Adult
+371,Siamese,Female,4,8.2,14.9,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+372,Siamese,Male,9,8.5,16.4,False,True,False,2,3,3,2025-11-10,7,8,Medium,Senior
+373,Siamese,Female,1,8.7,18.7,False,False,False,3,2,4,2025-11-10,10,9,Medium,Young
+374,Siamese,Female,12,8.2,17.9,False,False,False,2,3,3,2025-11-10,10,8,Medium,Senior
+375,Siamese,Male,7,11.9,12.2,False,False,False,3,2,3,2025-11-10,10,8,Medium,Adult
+376,Siamese,Female,5,9.0,13.5,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+377,Siamese,Female,6,6.6,16.9,False,False,False,3,3,3,2025-11-10,10,9,Small,Adult
+378,Siamese,Female,9,7.4,15.3,False,False,False,2,3,4,2025-11-10,10,9,Small,Senior
+379,Siamese,Female,7,8.3,12.4,False,False,False,3,3,3,2025-11-10,10,9,Medium,Adult
+380,Siamese,Female,2,8.0,13.8,False,False,False,2,2,4,2025-11-10,10,8,Small,Young
+381,Siamese,Female,7,7.9,17.3,False,False,False,3,2,4,2025-11-10,10,9,Small,Adult
+382,Siamese,Male,7,10.8,14.2,False,False,False,3,2,4,2025-11-10,10,9,Medium,Adult
+383,Siamese,Male,7,10.0,17.2,False,False,False,3,3,4,2025-11-10,10,10,Medium,Adult
+384,Siamese,Female,5,8.6,14.5,True,False,False,3,3,4,2025-11-10,6,10,Medium,Adult
+385,Siamese,Female,7,7.9,17.8,False,False,False,3,3,3,2025-11-10,10,9,Small,Adult
+386,Scottish Fold,Male,8,10.5,13.4,False,False,True,1,3,4,2025-11-10,7,8,Medium,Senior
+387,Scottish Fold,Female,6,9.3,9.0,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+388,Scottish Fold,Female,8,9.3,13.4,True,False,False,1,2,3,2025-11-10,6,6,Medium,Senior
+389,Scottish Fold,Male,7,9.6,11.1,False,False,False,1,2,3,2025-11-10,10,6,Medium,Adult
+390,Scottish Fold,Female,6,8.0,13.3,True,False,False,1,2,3,2025-11-10,6,6,Small,Adult
+391,Scottish Fold,Female,3,7.1,18.8,False,False,False,1,3,4,2025-11-10,10,8,Small,Young
+392,Scottish Fold,Male,5,11.3,11.5,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+393,Scottish Fold,Female,7,7.2,13.0,False,False,True,2,1,3,2025-11-10,7,6,Small,Adult
+394,Scottish Fold,Female,9,10.6,14.6,False,False,False,1,3,2,2025-11-10,10,6,Medium,Senior
+395,Scottish Fold,Female,5,8.3,11.6,False,False,False,1,3,2,2025-11-10,10,6,Medium,Adult
+396,Scottish Fold,Female,2,7.9,9.8,False,False,False,1,2,4,2025-11-10,10,7,Small,Young
+397,Scottish Fold,Female,2,9.6,10.5,False,False,False,1,3,3,2025-11-10,10,7,Medium,Young
+398,Scottish Fold,Male,9,13.2,12.7,False,False,False,1,2,2,2025-11-10,10,5,Large,Senior
+399,Scottish Fold,Female,4,8.8,10.9,False,False,True,2,3,2,2025-11-10,7,7,Medium,Adult
+400,Scottish Fold,Male,6,10.7,10.7,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+401,Scottish Fold,Male,6,12.1,12.5,False,False,False,1,1,2,2025-11-10,10,4,Large,Adult
+402,Scottish Fold,Female,4,6.9,13.5,False,False,False,2,1,2,2025-11-10,10,5,Small,Adult
+403,Scottish Fold,Female,3,6.8,13.8,False,False,False,1,2,2,2025-11-10,10,5,Small,Young
+404,Scottish Fold,Male,6,14.8,16.0,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+405,Scottish Fold,Male,9,8.5,11.3,False,False,False,1,2,4,2025-11-10,10,7,Medium,Senior
+406,Scottish Fold,Female,8,9.2,15.8,False,False,True,1,1,3,2025-11-10,7,5,Medium,Senior
+407,Scottish Fold,Male,6,10.5,9.8,False,False,False,2,2,4,2025-11-10,10,8,Medium,Adult
+408,Scottish Fold,Male,3,12.9,12.9,False,False,False,1,2,3,2025-11-10,10,6,Large,Young
+409,Scottish Fold,Male,10,11.2,13.2,False,False,False,1,1,4,2025-11-10,10,6,Medium,Senior
+410,Scottish Fold,Male,7,12.5,10.7,False,False,False,1,3,3,2025-11-10,10,7,Large,Adult
+411,Scottish Fold,Male,1,11.0,16.3,True,False,False,2,1,2,2025-11-10,6,5,Medium,Young
+412,Scottish Fold,Male,6,10.1,13.5,False,False,False,1,2,4,2025-11-10,10,7,Medium,Adult
+413,Scottish Fold,Female,4,7.5,13.7,False,False,False,1,2,3,2025-11-10,10,6,Small,Adult
+414,Scottish Fold,Male,7,10.2,15.1,False,False,False,2,3,2,2025-11-10,10,7,Medium,Adult
+415,Scottish Fold,Female,2,8.7,11.1,False,False,False,1,2,4,2025-11-10,10,7,Medium,Young
+416,Scottish Fold,Female,4,11.8,13.3,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+417,Scottish Fold,Male,8,10.5,15.8,False,False,False,1,3,3,2025-11-10,10,7,Medium,Senior
+418,Scottish Fold,Female,5,8.9,10.9,False,False,False,1,2,3,2025-11-10,10,6,Medium,Adult
+419,Scottish Fold,Female,9,9.1,14.5,False,False,False,1,3,4,2025-11-10,10,8,Medium,Senior
+420,Scottish Fold,Female,9,7.0,14.2,False,False,False,2,3,4,2025-11-10,10,9,Small,Senior
+421,Scottish Fold,Male,5,11.7,11.2,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+422,Scottish Fold,Male,6,11.9,9.5,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+423,Scottish Fold,Male,1,10.8,15.6,False,True,False,1,3,3,2025-11-10,7,7,Medium,Young
+424,Scottish Fold,Male,5,11.9,16.6,False,False,False,2,3,2,2025-11-10,10,7,Medium,Adult
+425,Scottish Fold,Female,5,8.2,13.3,False,False,False,2,2,2,2025-11-10,10,6,Medium,Adult
+426,Scottish Fold,Male,4,13.9,14.7,False,False,False,1,3,4,2025-11-10,10,8,Large,Adult
+427,Scottish Fold,Male,2,13.7,13.7,True,False,False,1,3,4,2025-11-10,6,8,Large,Young
+428,Scottish Fold,Female,5,8.1,13.2,False,False,False,1,1,4,2025-11-10,10,6,Medium,Adult
+429,Scottish Fold,Male,7,11.1,13.6,False,False,False,1,1,3,2025-11-10,10,5,Medium,Adult
+430,Scottish Fold,Male,6,7.0,10.1,False,False,False,1,3,3,2025-11-10,10,7,Small,Adult
+431,Scottish Fold,Male,7,10.1,14.3,True,False,True,2,1,3,2025-11-10,3,6,Medium,Adult
+432,Scottish Fold,Female,4,7.8,12.9,False,False,False,1,1,2,2025-11-10,10,4,Small,Adult
+433,Scottish Fold,Male,5,10.0,13.3,False,False,False,1,3,4,2025-11-10,10,8,Medium,Adult
+434,Scottish Fold,Female,5,7.1,14.4,False,False,False,1,1,4,2025-11-10,10,6,Small,Adult
+435,Scottish Fold,Female,4,7.1,12.5,False,False,True,2,2,4,2025-11-10,7,8,Small,Adult
+436,Scottish Fold,Female,1,7.8,12.2,False,False,True,2,3,4,2025-11-10,7,9,Small,Young
+437,Scottish Fold,Female,6,6.8,14.3,False,False,False,1,3,3,2025-11-10,10,7,Small,Adult
+438,Scottish Fold,Female,10,8.9,12.4,False,False,False,1,1,4,2025-11-10,10,6,Medium,Senior
+439,Scottish Fold,Male,1,12.0,13.0,False,False,False,2,3,4,2025-11-10,10,9,Medium,Young
+440,Scottish Fold,Female,1,9.6,14.0,False,False,False,2,1,3,2025-11-10,10,6,Medium,Young
+441,Russian Blue,Female,5,7.2,18.1,False,False,False,1,2,1,2025-11-10,10,4,Small,Adult
+442,Russian Blue,Female,3,7.9,14.5,False,False,False,2,1,2,2025-11-10,10,5,Small,Young
+443,Russian Blue,Male,8,9.9,15.8,False,False,False,1,1,1,2025-11-10,10,3,Medium,Senior
+444,Russian Blue,Female,6,7.3,14.3,True,False,False,1,1,2,2025-11-10,6,4,Small,Adult
+445,Russian Blue,Female,7,7.4,14.9,False,False,False,1,1,1,2025-11-10,10,3,Small,Adult
+446,Russian Blue,Male,6,12.3,12.4,False,False,False,2,2,2,2025-11-10,10,6,Large,Adult
+447,Russian Blue,Female,6,7.9,14.9,False,False,False,2,2,2,2025-11-10,10,6,Small,Adult
+448,Russian Blue,Female,5,5.2,17.3,False,False,False,1,2,1,2025-11-10,10,4,Small,Adult
+449,Russian Blue,Male,3,8.5,14.3,False,False,False,1,1,1,2025-11-10,10,3,Medium,Young
+450,Russian Blue,Female,8,5.7,13.9,False,False,False,1,2,2,2025-11-10,10,5,Small,Senior
+451,Russian Blue,Male,5,9.4,15.5,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+452,Russian Blue,Female,2,8.2,14.1,False,False,False,2,1,2,2025-11-10,10,5,Medium,Young
+453,Russian Blue,Female,6,7.8,14.4,False,False,False,1,2,1,2025-11-10,10,4,Small,Adult
+454,Russian Blue,Female,6,7.6,14.3,False,False,False,1,1,2,2025-11-10,10,4,Small,Adult
+455,Russian Blue,Male,7,12.0,17.8,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+456,Russian Blue,Male,6,7.9,17.1,False,False,False,2,1,2,2025-11-10,10,5,Small,Adult
+457,Russian Blue,Male,9,11.4,16.3,False,False,False,1,2,1,2025-11-10,10,4,Medium,Senior
+458,Russian Blue,Male,4,11.1,17.4,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+459,Russian Blue,Female,1,8.5,19.1,False,False,False,1,1,1,2025-11-10,10,3,Medium,Young
+460,Russian Blue,Male,4,9.1,16.3,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+461,Russian Blue,Male,5,10.1,16.8,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+462,Russian Blue,Male,5,10.8,13.5,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+463,Russian Blue,Female,10,6.6,19.3,False,False,False,1,1,1,2025-11-10,10,3,Small,Senior
+464,Russian Blue,Female,6,8.6,14.0,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+465,Russian Blue,Female,6,6.5,16.1,False,False,False,2,1,1,2025-11-10,10,4,Small,Adult
+466,Russian Blue,Female,4,7.8,16.9,False,False,False,2,1,1,2025-11-10,10,4,Small,Adult
+467,Russian Blue,Female,5,8.3,10.1,False,False,False,2,1,1,2025-11-10,10,4,Medium,Adult
+468,Russian Blue,Male,5,12.4,14.2,False,False,False,1,2,2,2025-11-10,10,5,Large,Adult
+469,Russian Blue,Male,6,9.9,17.5,False,False,False,2,1,2,2025-11-10,10,5,Medium,Adult
+470,Russian Blue,Female,8,7.9,15.7,False,False,False,2,1,2,2025-11-10,10,5,Small,Senior
+471,Russian Blue,Female,2,9.3,13.9,False,False,False,2,2,1,2025-11-10,10,5,Medium,Young
+472,Russian Blue,Male,3,11.5,18.9,False,False,False,1,2,1,2025-11-10,10,4,Medium,Young
+473,Russian Blue,Female,6,8.7,15.5,False,False,False,2,2,1,2025-11-10,10,5,Medium,Adult
+474,Russian Blue,Female,7,7.7,12.5,False,False,False,2,2,2,2025-11-10,10,6,Small,Adult
+475,Russian Blue,Male,8,11.4,19.9,False,False,False,1,1,1,2025-11-10,10,3,Medium,Senior
+476,Russian Blue,Female,2,8.0,14.1,False,False,False,2,2,2,2025-11-10,10,6,Small,Young
+477,Russian Blue,Female,8,8.0,17.1,False,False,False,1,1,1,2025-11-10,10,3,Small,Senior
+478,Russian Blue,Female,5,8.9,14.0,False,False,False,1,1,2,2025-11-10,10,4,Medium,Adult
+479,Russian Blue,Female,8,6.8,12.0,False,False,False,1,2,1,2025-11-10,10,4,Small,Senior
+480,Russian Blue,Male,8,10.5,13.5,False,False,False,1,1,1,2025-11-10,10,3,Medium,Senior
+481,Russian Blue,Female,1,6.7,13.4,False,False,False,1,2,1,2025-11-10,10,4,Small,Young
+482,Russian Blue,Male,10,10.0,15.3,False,False,False,1,1,2,2025-11-10,10,4,Medium,Senior
+483,Russian Blue,Female,3,6.3,15.1,False,False,False,1,2,1,2025-11-10,10,4,Small,Young
+484,Russian Blue,Female,5,7.2,14.4,False,False,False,2,2,2,2025-11-10,10,6,Small,Adult
+485,Russian Blue,Female,3,8.7,16.3,False,False,False,1,1,2,2025-11-10,10,4,Medium,Young
+486,Russian Blue,Male,6,10.5,13.2,False,False,False,1,1,1,2025-11-10,10,3,Medium,Adult
+487,Russian Blue,Female,7,6.4,14.0,False,False,False,1,2,1,2025-11-10,10,4,Small,Adult
+488,Russian Blue,Female,1,8.0,16.1,False,False,False,2,2,1,2025-11-10,10,5,Small,Young
+489,Russian Blue,Female,6,8.8,13.1,False,False,False,2,2,1,2025-11-10,10,5,Medium,Adult
+490,Russian Blue,Male,1,9.8,13.5,False,False,False,2,1,1,2025-11-10,10,4,Medium,Young
+491,Russian Blue,Female,4,4.8,15.8,True,False,False,2,2,2,2025-11-10,6,6,Small,Adult
+492,Russian Blue,Male,2,10.5,15.1,False,False,False,1,2,1,2025-11-10,10,4,Medium,Young
+493,Russian Blue,Male,1,11.1,17.1,False,False,False,1,1,1,2025-11-10,10,3,Medium,Young
+494,Russian Blue,Female,4,7.1,11.5,False,False,False,1,2,1,2025-11-10,10,4,Small,Adult
+495,Russian Blue,Male,8,9.8,20.8,False,False,False,1,1,1,2025-11-10,10,3,Medium,Senior
+496,American Shorthair,Male,5,11.1,11.5,False,False,False,2,1,1,2025-11-10,10,4,Medium,Adult
+497,American Shorthair,Female,7,7.8,16.6,False,False,False,1,2,2,2025-11-10,10,5,Small,Adult
+498,American Shorthair,Male,7,8.6,17.1,False,True,False,3,3,3,2025-11-10,7,9,Medium,Adult
+499,American Shorthair,Female,10,8.5,13.3,False,False,False,2,3,2,2025-11-10,10,7,Medium,Senior
+500,American Shorthair,Male,6,11.9,12.8,False,False,False,2,3,1,2025-11-10,10,6,Medium,Adult
+501,American Shorthair,Male,8,11.7,15.1,False,False,False,1,2,2,2025-11-10,10,5,Medium,Senior
+502,American Shorthair,Female,5,8.8,19.6,False,False,True,3,2,3,2025-11-10,7,8,Medium,Adult
+503,American Shorthair,Female,8,9.5,13.4,False,False,False,3,2,3,2025-11-10,10,8,Medium,Senior
+504,American Shorthair,Female,1,6.1,17.6,False,False,False,3,1,2,2025-11-10,10,6,Small,Young
+505,American Shorthair,Male,1,11.6,18.8,False,False,False,3,3,2,2025-11-10,10,8,Medium,Young
+506,American Shorthair,Female,3,9.7,14.9,False,False,False,3,1,2,2025-11-10,10,6,Medium,Young
+507,American Shorthair,Female,5,9.1,12.0,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+508,American Shorthair,Female,5,9.0,13.1,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+509,American Shorthair,Female,3,8.7,11.9,False,False,False,3,3,1,2025-11-10,10,7,Medium,Young
+510,American Shorthair,Female,6,8.9,13.5,False,False,False,1,3,2,2025-11-10,10,6,Medium,Adult
+511,American Shorthair,Female,2,7.6,16.8,False,False,False,3,3,1,2025-11-10,10,7,Small,Young
+512,American Shorthair,Female,5,9.3,15.8,False,False,False,3,2,2,2025-11-10,10,7,Medium,Adult
+513,American Shorthair,Male,11,10.9,12.6,False,False,False,2,2,1,2025-11-10,10,5,Medium,Senior
+514,American Shorthair,Female,6,7.8,13.9,False,False,True,3,1,1,2025-11-10,7,5,Small,Adult
+515,American Shorthair,Male,5,15.0,17.1,False,False,False,2,1,3,2025-11-10,10,6,Large,Adult
+516,American Shorthair,Male,7,10.5,15.9,False,False,False,3,3,1,2025-11-10,10,7,Medium,Adult
+517,American Shorthair,Female,11,10.0,15.2,False,False,False,3,3,3,2025-11-10,10,9,Medium,Senior
+518,American Shorthair,Male,4,10.8,14.8,False,False,False,3,2,3,2025-11-10,10,8,Medium,Adult
+519,American Shorthair,Male,6,12.8,13.6,False,False,False,2,3,2,2025-11-10,10,7,Large,Adult
+520,American Shorthair,Male,10,9.7,17.2,False,True,False,2,1,3,2025-11-10,7,6,Medium,Senior
+521,American Shorthair,Male,7,11.5,15.7,False,False,False,1,3,2,2025-11-10,10,6,Medium,Adult
+522,American Shorthair,Male,6,11.3,14.6,False,False,False,3,1,1,2025-11-10,10,5,Medium,Adult
+523,American Shorthair,Male,6,12.7,16.0,False,False,False,3,1,2,2025-11-10,10,6,Large,Adult
+524,American Shorthair,Male,5,15.5,15.5,False,False,False,2,1,2,2025-11-10,10,5,Large,Adult
+525,American Shorthair,Male,3,10.2,15.0,False,False,False,2,3,3,2025-11-10,10,8,Medium,Young
+526,American Shorthair,Male,7,10.8,16.0,False,False,False,3,3,2,2025-11-10,10,8,Medium,Adult
+527,American Shorthair,Male,7,12.9,14.4,False,False,False,3,3,1,2025-11-10,10,7,Large,Adult
+528,American Shorthair,Female,8,8.8,17.6,False,False,False,2,3,1,2025-11-10,10,6,Medium,Senior
+529,American Shorthair,Male,4,9.5,14.4,False,False,False,2,3,3,2025-11-10,10,8,Medium,Adult
+530,American Shorthair,Male,8,10.8,17.1,False,False,True,1,1,1,2025-11-10,7,3,Medium,Senior
+531,American Shorthair,Female,2,8.8,15.4,True,False,False,2,3,2,2025-11-10,6,7,Medium,Young
+532,American Shorthair,Female,2,7.2,10.2,False,False,False,1,1,2,2025-11-10,10,4,Small,Young
+533,American Shorthair,Female,7,7.7,14.3,False,False,False,1,3,2,2025-11-10,10,6,Small,Adult
+534,American Shorthair,Male,10,13.8,13.6,False,False,True,3,1,1,2025-11-10,7,5,Large,Senior
+535,American Shorthair,Male,5,10.9,12.6,False,False,False,1,3,1,2025-11-10,10,5,Medium,Adult
+536,American Shorthair,Male,7,13.8,13.2,False,False,False,1,2,1,2025-11-10,10,4,Large,Adult
+537,American Shorthair,Female,6,8.7,15.5,False,False,False,2,2,1,2025-11-10,10,5,Medium,Adult
+538,American Shorthair,Male,5,13.8,16.9,False,False,False,2,3,2,2025-11-10,10,7,Large,Adult
+539,American Shorthair,Male,5,12.0,18.1,False,False,False,1,2,1,2025-11-10,10,4,Medium,Adult
+540,American Shorthair,Female,6,10.7,13.3,True,False,False,3,2,3,2025-11-10,6,8,Medium,Adult
+541,American Shorthair,Female,4,6.7,13.8,False,False,False,2,1,3,2025-11-10,10,6,Small,Adult
+542,American Shorthair,Female,7,8.6,13.8,False,False,False,1,2,2,2025-11-10,10,5,Medium,Adult
+543,American Shorthair,Male,8,12.4,16.1,False,False,False,2,1,1,2025-11-10,10,4,Large,Senior
+544,American Shorthair,Male,7,14.1,15.5,False,False,False,1,3,1,2025-11-10,10,5,Large,Adult
+545,American Shorthair,Male,2,11.5,15.0,False,False,False,3,2,2,2025-11-10,10,7,Medium,Young
+546,American Shorthair,Male,6,10.0,19.3,False,False,False,2,2,1,2025-11-10,10,5,Medium,Adult
+547,American Shorthair,Female,3,7.9,16.0,False,False,False,2,1,3,2025-11-10,10,6,Small,Young
+548,American Shorthair,Male,6,13.7,16.9,False,False,False,2,3,2,2025-11-10,10,7,Large,Adult
+549,American Shorthair,Male,9,13.9,14.1,False,False,False,3,3,3,2025-11-10,10,9,Large,Senior
+550,American Shorthair,Female,2,10.2,16.2,False,False,False,2,3,2,2025-11-10,10,7,Medium,Young
